@@ -1,16 +1,42 @@
 ## Hi there 👋
+Hi, I’m Rafjan — a passionate Data Analyst who loves turning raw data into meaningful insights.
+With hands-on experience in PostgreSQL, Power BI, and Python, I enjoy solving business problems through clean data models, automation, and storytelling dashboards.
 
-<!--
-**rafjanSHAWON/rafjanSHAWON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 What I Do
 
-Here are some ideas to get you started:
+🗃️ Design and optimize PostgreSQL databases for analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Build interactive Power BI dashboards that drive business decisions
+
+🐍 Automate data cleaning, analysis, and visualization with Python (Pandas, Matplotlib, Seaborn)
+
+🔍 Perform data exploration, statistical analysis, and performance tracking
+
+🚀 Projects
+
+Sales Performance Dashboard – Integrated PostgreSQL data with Power BI to visualize regional and product-wise KPIs.
+
+Customer Retention Analysis – Used Python to find churn patterns and improve retention strategy.
+
+Data Cleaning Automation – Created a Python script to standardize CSV data for analytics pipelines.
+
+⚙️ Tech Stack
+
+Languages: SQL, Python
+Tools: Power BI, Jupyter Notebook, Excel
+Database: PostgreSQL
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+🌱 Currently Learning
+
+Advanced DAX in Power BI
+
+Predictive modeling with Scikit-learn
+
+Git & GitHub workflow for collaboration
+
+📫 Connect with Me
+
+💼 LinkedIn
+ | 📧 Email
+ | 🧠 Portfolio / Projects
